@@ -20,7 +20,7 @@ This folder contains all the codes required for data analysis and simulation of 
 ### How to reproduce the plots?
 **1.** Clone the GitHub Repository
 ```
-git clone https://github.com/uday2607/CSB-SCLC
+git clone https://github.com/csbBSSE/CSB-SCLC
 ```
 **2.** Set the working directory to ``CSB-SCLC``
 
